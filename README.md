@@ -17,7 +17,7 @@ You can build the project any time using GitHub actions. Just run build.yml and 
 
 Sideloaded (Developer Account): **UPDATED 2025**
 - Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.
-- Download the .ipa (application file) from a source of your choosing. (STILL WORKING ON LATEST VERSION OF SOUNDCLOUD.)
+- Download the decrypted .ipa (application file) from a source of your choosing. (STILL WORKING ON LATEST VERSION OF SOUNDCLOUD.)
 - Use Sideloadly to merge the deb (in Releases) with the ipa:
   * Drag the decrypted .ipa file into Sideloadly
   * Click Advanced Options, Check Inject dylibs and choose the .deb file.
